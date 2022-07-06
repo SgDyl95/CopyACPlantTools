@@ -1,4 +1,4 @@
-﻿string copyFromFilePath = "C:\\AW Autodesk Content\\Plant 3D 2022\\AutoCAD Plant  3D 2022 Content\\Template\\ACPlantTools";
+﻿string copyFromFilePath = "C:\\AW Autodesk Content\\Plant3D 2022\\AutoCAD Plant 3D 2022 Content\\Template\\ACPlantTools";
 var sourceDir = new DirectoryInfo(copyFromFilePath);
 if (!sourceDir.Exists)
     throw new DirectoryNotFoundException("The source directory wasn't found, please ensure that your files are all synced!");

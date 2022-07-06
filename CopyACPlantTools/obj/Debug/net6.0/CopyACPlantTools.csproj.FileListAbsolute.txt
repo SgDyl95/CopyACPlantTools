@@ -12,3 +12,4 @@ C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Debug\net6
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Debug\net6.0\ref\CopyACPlantTools.dll
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Debug\net6.0\CopyACPlantTools.pdb
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Debug\net6.0\CopyACPlantTools.genruntimeconfig.cache
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Debug\net6.0\CopyACPlantTools.csproj.AssemblyReference.cache
