@@ -1,0 +1,2 @@
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\win-x86\CopyACPlantTools.pdb
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\win-x86\CopyACPlantTools.exe
