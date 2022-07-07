@@ -235,3 +235,4 @@ C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\ne
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\win-x86\ref\CopyACPlantTools.dll
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\win-x86\CopyACPlantTools.pdb
 C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\win-x86\CopyACPlantTools.genruntimeconfig.cache
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\win-x86\CopyACPlantTools.csproj.AssemblyReference.cache

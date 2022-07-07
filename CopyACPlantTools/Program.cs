@@ -6,10 +6,13 @@ string userName = Environment.UserName;
 string pasteToFilePathPreffix = "C:\\Users\\";
 string pasteToFilePathSuffix = "\\AppData\\Local\\Autodesk\\AutoCAD Plant 3D\\CollaborationCache";
 string p3DProjectFolders = pasteToFilePathPreffix + userName + pasteToFilePathSuffix;
+string plantToolsFolder = "\\ACPlantTools";
 string[] projectFolders = Directory.GetDirectories(p3DProjectFolders);
 foreach (string projectFolder in projectFolders)
 {
-    Copy(copyFromFilePath, projectFolder);
+    string targetFolder = projectFolder + plantToolsFolder;
+    if (!Directory.Exists(targetFolder)) { Directory.CreateDirectory(targetFolder); }
+    Copy(copyFromFilePath, targetFolder);
 }
 Console.ReadLine();
 
