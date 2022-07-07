@@ -1,0 +1,15 @@
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\CopyACPlantTools.exe
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\CopyACPlantTools.deps.json
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\CopyACPlantTools.runtimeconfig.json
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\CopyACPlantTools.dll
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\ref\CopyACPlantTools.dll
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\CopyACPlantTools.pdb
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.csproj.AssemblyReference.cache
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.AssemblyInfoInputs.cache
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.AssemblyInfo.cs
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.dll
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\ref\CopyACPlantTools.dll
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.pdb
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\obj\Release\net6.0\CopyACPlantTools.genruntimeconfig.cache

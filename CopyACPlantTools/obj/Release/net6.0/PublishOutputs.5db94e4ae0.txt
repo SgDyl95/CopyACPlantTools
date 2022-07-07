@@ -1,0 +1,5 @@
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\CopyACPlantTools.exe
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\CopyACPlantTools.dll
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\CopyACPlantTools.deps.json
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\CopyACPlantTools.runtimeconfig.json
+C:\Users\Dylan\Documents\GitHub\CopyACPlantTools\CopyACPlantTools\bin\Release\net6.0\publish\CopyACPlantTools.pdb
