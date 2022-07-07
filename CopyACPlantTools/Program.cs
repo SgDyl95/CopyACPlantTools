@@ -11,8 +11,7 @@ foreach (string projectFolder in projectFolders)
 {
     Copy(copyFromFilePath, projectFolder);
 }
-
-
+Console.ReadLine();
 
 static void Copy(string sourceDirectory, string targetDirectory)
 {
